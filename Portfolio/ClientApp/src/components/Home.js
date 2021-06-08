@@ -29,7 +29,7 @@ export class Home extends Component {
                             <h3>Om mig</h3>
                         <p>Mitt namn är Yad Mohamad och är 22 år gammal. Just nu studerar jag systemutveckling. 
                             Som person är jag väldig social och gillar att umgås och lära känna nya personer hela tiden
-                            På fritiden ägnar jag mig mest åt jobb och programmering. 
+                            På fritiden så ägnar jag mig mest åt jobb och programmering. 
                             </p>
                          </div>
                         <div class="collumn-right">
